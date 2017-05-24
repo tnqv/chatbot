@@ -1,0 +1,22 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "chatbotapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tnqv/chatbot.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "VuTNQ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tnqv/chatbot/issues"
+  },
+  "homepage": "https://github.com/tnqv/chatbot#readme"
+}
